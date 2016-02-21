@@ -1,0 +1,22 @@
+____Path to images index file
+data/index_random_subset.txt
+____Path to folders containing the trees
+data/trees_ffd/
+____Number of trees
+10
+____Number of testscd
+100
+____Max depth
+20
+____Min samples per Node
+20
+____Samples per Tree
+150
+____Patches Per Sample
+100
+____Face Size
+125
+____Patch Size Ratio
+0.250000
+____Feature
+0 1 2

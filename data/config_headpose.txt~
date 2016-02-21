@@ -1,0 +1,22 @@
+____Path to images index file
+ 
+____Path to trees
+data/trees_headpose/tree_
+____Number of trees
+10
+____Number of testscd
+500
+____Max depth
+15
+____Min samples per Node
+20
+____Samples per Tree
+50
+____Patches Per Sample
+20
+____Face Size
+125
+____Patch Size Ratio
+0.250000
+____Feature
+0 1 2
